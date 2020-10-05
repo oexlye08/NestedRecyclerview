@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "563280142357",
+    "firebase_url": "https://recyclerviewinrecyclervi-f6fd6.firebaseio.com",
+    "project_id": "recyclerviewinrecyclervi-f6fd6",
+    "storage_bucket": "recyclerviewinrecyclervi-f6fd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563280142357:android:b2a5150848d8cb1a68ae1c",
+        "android_client_info": {
+          "package_name": "id.web.okisulton.recyclerviewinrecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563280142357-jao24di65r43cg3k87nagg00u92fnl4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.web.okisulton.recyclerviewinrecyclerview",
+            "certificate_hash": "a96bbcdfe76da041fd16015b20566a6c339a5a20"
+          }
+        },
+        {
+          "client_id": "563280142357-eof892fe7luksheao3imbio5ujkv7kno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi9xHVxTgjTvBv_PWz1Ri7xD3tPsvholg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563280142357-eof892fe7luksheao3imbio5ujkv7kno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
